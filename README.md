@@ -10,7 +10,8 @@
     
 ## Step 2 : Create Analaysis Table
     Based on Requeirements , I create analysis tables 
-    ![image](https://github.com/normadesita/Project-Based-Intern-RakaminXBank-Muamalat/assets/57670788/418ca021-da9c-45a9-9bd5-4429af6bb366)
+   ![image](https://github.com/normadesita/Project-Based-Intern-RakaminXBank-Muamalat/assets/57670788/a364341d-9dad-428f-9cef-d06ea9540f2c)
+
 
 ## Step 3 : Create Dashboard
     
